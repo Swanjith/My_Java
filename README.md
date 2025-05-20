@@ -6,65 +6,64 @@ Accessing elements,5. Updating elements, 6. Removing elements, 7. Searching elem
 size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. Clearing the list
 Output for ArrayList Implementation :-                                                            
 https://github.com/Swanjith/My_Java/blob/main/ListDemo/ArrayList.png
-
 Output for LinkedList Implementation :-                                                                    
-https://github.com/Swanjith/My_Java/blob/main/ListDemo/LinkedList.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/LinkedList.png
 
 
 1b. Array List programs
 1. Write a java program for getting different colors through ArrayList interface and search whether
 the color "Red" is available or not
 Output for Colorsearch using ArrayList Implementation :-                                                   
-https://github.com/Swanjith/My_Java/blob/main/ListDemo/Colorsearch.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/Colorsearch.png
 
 2. Write a java program for getting different colors through ArrayList interface and remove the
 2nd element and color "Blue" from the ArrayList
 Output for Remove Specific color using ArrayList Implementation :-                                            
-https://github.com/Swanjith/My_Java/blob/main/ListDemo/RemoveColors.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/RemoveColors.png
 
 3. Write a java program for getting different colors through ArrayList interface and sort them
 using Collections.sort( ArrayListObj)
 Output for Deletion using ArrayList Implementation :-                                                                          
-https://github.com/Swanjith/My_Java/blob/main/ListDemo/delete.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/delete.png
 
 
 4. Write a java program for getting different colors through ArrayList interface and extract the
 elements 1st and 2nd from the ArrayList object by using SubList()
 Output for Sublist of colors using ArrayList Implementation :-                                         
-https://github.com/Swanjith/My_Java/blob/main/ListDemo/SubListColors.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/SubListColors.png
 
 
 5. Write a java program for getting different colors through ArrayList interface and delete nth
 element from the ArrayList object by using remove by index
 Output for SortColors using ArrayList Implementation :-                                                                 
-https://github.com/Swanjith/My_Java/blob/main/ListDemo/SortColors.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/SortColors.png
 
 
 1c. Linked List Programs
 6. Write a Java program to iterate through all elements in a linked list starting at the
 specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
 Output to show iteration of elements from second position using LinkedList Implementation :-                                   
-https://github.com/Swanjith/My_Java/blob/main/ListDemo/IterateFromSecond.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/IterateFromSecond.png
 
 7. Write a Java program to iterate a linked list in reverse order (using
 objlist.descendingIterator())
 Output to iterate the list from backwards usingLinkedList Implementation :-                                                   
-https://github.com/Swanjith/My_Java/blob/main/ListDemo/ReverseIterate.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/ReverseIterate.png
 
 8. Write a Java program to insert the specified element at the end of a linked list.( using
 l_listobj.offerLast("Pink"))
 Output to show the insertions at the end using LinkedList Implementation :-                                               
-https://github.com/Swanjith/My_Java/blob/main/ListDemo/InsertAtEnd.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/InsertAtEnd.png
 
 9. Write a Java program to display elements and their positions in a linked list ( using
 l_listobj.get(p) )
 Output to DisplayPosition using LinkedList Implementation :-                                                   
-https://github.com/Swanjith/My_Java/blob/main/ListDemo/DisplayWithPositions.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/DisplayWithPositions.png
 
 10. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
 Collections.swap(l_list, 0, 2))
 Output to swap elements using LinkedList Implementation :-                                                           
-https://github.com/Swanjith/My_Java/blob/main/ListDemo/SwapElements.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/SwapElements.png
 
 
 
@@ -77,13 +76,13 @@ Searching, Substring Operations , String Modification, Whitespace Handling, Stri
 Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with
 contains( ) and startsWith() and endsWith()
 Output for the String Operations :-                                   
-https://github.com/Swanjith/My_Java/blob/main/StringOperationDemo/StringOperationsDemo.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-2_StringOperationDemo/StringOperationsDemo.png
 
 2.b. Develop a Java program to make a Performance Test on StringBuffer and StringBuilder for
 appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify
 your answer which one is better.
 Output for the performance of StringBuilder and StringClass :-                                                              
-https://github.com/Swanjith/My_Java/blob/main/StringOperationDemo/StringOperationsDemo.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-2_StringOperationDemo/StringOperationsDemo.png
 
 
 ___
@@ -95,7 +94,7 @@ Searching, Substring Operations , String Modification, Whitespace Handling, Stri
 String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
 startsWith() and endsWith()
 Output for 3a :-
-https://github.com/Swanjith/My_Java/blob/main/StringHandling/3a.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-3_StringHandling/3a.png
 
 
 3b. String Exercise progams
@@ -122,7 +121,7 @@ Q10. Write a Java Program for Counting the number of words in a string using use
 countWords()
 
 Output for 3b and 3c :-
-https://github.com/Swanjith/My_Java/blob/main/StringHandling/3b_3c.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-3_StringHandling/3b_3c.png
 
 
 
@@ -131,7 +130,7 @@ ___
 4a. Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing
 Programming in Blue color plain font with font size of 32 using Jframe and Jlabel
 Output to Display message in Swing :-
-https://github.com/Swanjith/My_Java/blob/main/SwingExamples1/4a.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-4_SwingExamples1/4a.png
 
 
 
@@ -139,14 +138,14 @@ https://github.com/Swanjith/My_Java/blob/main/SwingExamples1/4a.png
 pressed” depending upon the Jbutton either Srilanka or India is pressed by implementing the
 event handling mechanism with addActionListener( ).
 Output for Country Button example in Swing :-
-https://github.com/Swanjith/My_Java/blob/main/SwingExamples1/4b.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-4_SwingExamples1/4b.png
 
 
 4c. Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour
 Glass is pressed” depending upon the Jbutton with image either Digital Clock or Hour Glass is
 pressed by implementing the event handling mechanism with addActionListener( ).
 Output to display Clock message in Swing :-
-https://github.com/Swanjith/My_Java/blob/main/SwingExamples1/4c.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-4_SwingExamples1/4c.png
 
 
 
@@ -157,31 +156,123 @@ ___
 Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
 display them on console whenever the countries are selected on the list.
 Output to display CountryList in console :-
-https://github.com/Swanjith/My_Java/blob/main/SwingExamples2/5a.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-5_SwingExamples2/5a.png
 
 
 5b. Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and
 display the concerned color whenever the specific tab is selected in the Pan.
 
 Output to display CountryList with Capitals in console :-
-https://github.com/Swanjith/My_Java/blob/main/SwingExamples2/5b.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-5_SwingExamples2/5b.png
 
 5c. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
 Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
 display the capital of the countries on console whenever the countries are selected on the list.
 Output for colour tabbed pane :-
-https://github.com/Swanjith/My_Java/blob/main/SwingExamples2/5c.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-5_SwingExamples2/5c.png
 
 
 5d. Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
 display the concerned color whenever the specific tab is selected in the Pan
 Output for colour tabbed pane 1 :-
-https://github.com/Swanjith/My_Java/blob/main/SwingExamples2/5d.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-5_SwingExamples2/5d.png
+
+
+___
+
+6a. Build a servlet program to find the factorial of a number using HTML with step by step
+procedure.
+https://github.com/Swanjith/My_Java/blob/main/Exp-6_JavaServlet/FactorialServlet/Fact.png
+
+6b. Build a servlet program to create a cookie to get your name through text box and press submit
+button( through HTML) to display the message by greeting Welcome back your name ! , you have
+visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.
+https://github.com/Swanjith/My_Java/blob/main/Exp-6_JavaServlet/CookieServlet/6b1.png                                       
+https://github.com/Swanjith/My_Java/blob/main/Exp-6_JavaServlet/CookieServlet/6b.png
+
+
+6c. Build a servlet program to check the given number is prime number or not using HTML with step
+by step procedure.
+https://github.com/Swanjith/My_Java/blob/main/Exp-6_JavaServlet/PrimeServlet/Prime.png                                   
+https://github.com/Swanjith/My_Java/blob/main/Exp-6_JavaServlet/PrimeServlet/Prime1.png
+
+___
+
+
+7a. Build a Session Management using JSP program set with one minute session expiry time to get
+your name through text box and press submit to display the message by greeting Hello your name!.
+Check the expiry of the session after one minute.                                                                   
+https://github.com/Swanjith/My_Java/blob/main/Exp-7_JavaServlet1/SessionManagement/swansession.png
+
+
+7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max
+Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then
+it has to go to show the active cookie list when you press the link go to the active cookie list                   
+https://github.com/Swanjith/My_Java/blob/main/Exp-7_JavaServlet1/CookieManagement/swancookie.png
 
 
 ___
 
 
+8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a
+new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and
+JSP to get the fields and display the results respectively                                             
+https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8A/8a.png
+
+
+8b. Read all the existing records from the table coffee which is from the database test and update an
+existing coffee product in the table with its id. [Create a table coffee with fields
+( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
+https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8B/scpffee.png
+
+
+
+8c. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary
+into the table Emp of the database Employee by getting the fields through keyboard and
+Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using
+HTML and JSP to get the fields and display the results respectively
+https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8C/swan8C.png
+
+
+8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into
+the table Emp of the database Employee using HTML and JSP to get the fields and display the
+results respectively
+
+https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8D/swan8d.png
+
+
+
+
+
+
+___
+
+
+
+9a. Read all the existing records from the table coffee which is from the database test and delete
+an existing coffee product from the table with its id and display the rest of the records using
+HTML and JSP to get the field and display the results respectively                       
+https://github.com/Swanjith/My_Java/blob/main/Exp-9_Jdbc/9A/9aswan.png
+
+
+9b. Read all the existing records from the table coffee which is from the database test and query
+coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the
+results respectively
+https://github.com/Swanjith/My_Java/blob/main/Exp-9_Jdbc/9B/9bSwan.png
+
+
+9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary
+into the table Emp of the database Employee by getting the fields through keyboard and Generate
+the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP
+to get the field and display the results respectively
+https://github.com/Swanjith/My_Java/blob/main/Exp-9_Jdbc/9C/9cswan.png
+
+
+9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
+Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
+follows using HTML and JSP to get the field and display the results respectively
+
+https://github.com/Swanjith/My_Java/blob/main/Exp-9_Jdbc/9D/swan9d.png
 
 
 
