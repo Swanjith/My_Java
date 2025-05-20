@@ -92,8 +92,8 @@ handling functions directed as follows:
 String Creation and Basic Operations, Length and Character Access, String Comparison, String
 Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
 String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
-startsWith() and endsWith()
-Output for 3a :-
+startsWith() and endsWith()                                                                   
+Output for 3a :-                                                 
 https://github.com/Swanjith/My_Java/blob/main/Exp-3_StringHandling/3a.png
 
 
