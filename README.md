@@ -68,6 +68,14 @@ https://github.com/Swanjith/My_Java/blob/main/ListDemo/SwapElements.png
 
 
 
+___
+
+
+Output for the String Operations :-                                   
+https://github.com/Swanjith/My_Java/blob/main/StringOperationDemo/StringOperationsDemo.png
+
+Output for the performance of StringBuilder and StringClass :-                                                              
+https://github.com/Swanjith/My_Java/blob/main/StringOperationDemo/StringOperationsDemo.png
 
 
 
