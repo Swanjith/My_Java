@@ -307,7 +307,7 @@ https://github.com/Swanjith/My_Java/blob/main/Exp-9_Jdbc/9C/9cswan.png
 Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
 follows using HTML and JSP to get the field and display the results respectively
 
-https://github.com/Swanjith/My_Java/blob/main/Exp-9_Jdbc/9D/swan9d.png
+[https://github.com/Swanjith/My_Java/blob/main/Exp-9_Jdbc/9D/swan9d.png]
 
 
 
