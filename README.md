@@ -38,7 +38,7 @@ https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/RemoveColors.png
 3. Write a java program for getting different colors through ArrayList interface and sort them
 using Collections.sort( ArrayListObj)
 Output for Deletion using ArrayList Implementation :-                                                                          
-https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/delete.png
+https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/SortColors.png
 
 
 4. Write a java program for getting different colors through ArrayList interface and extract the
@@ -49,8 +49,10 @@ https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/SubListColors.png
 
 5. Write a java program for getting different colors through ArrayList interface and delete nth
 element from the ArrayList object by using remove by index
-Output for SortColors using ArrayList Implementation :-                                                                 
-https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/SortColors.png
+Output for SortColors using ArrayList Implementation :-
+
+https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/delete.png
+
 
 ---
 
