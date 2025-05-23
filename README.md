@@ -1,3 +1,13 @@
+#Advanced Java  
+
+**Subject Code**: BCS613D<br>
+**Name** : Swanjith AK<br>
+**USN**: 4AL22CS174<br>
+**Sem/Section**: VI/C<br>
+**Total Programs**: 28<br>
+
+---
+
 1.a Develop a Java program for adding elements [Apple, Banana, Orange] into an ArrayList
 and a LinkedList to perform the following operations with different functions directed as
 follows
