@@ -10,7 +10,7 @@
 
 1.a Develop a Java program for adding elements [Apple, Banana, Orange] into an ArrayList
 and a LinkedList to perform the following operations with different functions directed as
-follows
+follows:
 1. Adding elements, 2. Adding element at specific index, 3. Adding multiple elements, 4.
 Accessing elements,5. Updating elements, 6. Removing elements, 7. Searching elements, 8. List
 size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. Clearing the list
@@ -58,27 +58,27 @@ https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/delete.png
 
 1c. Linked List Programs
 
-6. Write a Java program to iterate through all elements in a linked list starting at the
+1. Write a Java program to iterate through all elements in a linked list starting at the
 specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
 Output to show iteration of elements from second position using LinkedList Implementation :-                                   
 https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/IterateFromSecond.png
 
-7. Write a Java program to iterate a linked list in reverse order (using
+2. Write a Java program to iterate a linked list in reverse order (using
 objlist.descendingIterator())
 Output to iterate the list from backwards usingLinkedList Implementation :-                                                   
 https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/ReverseIterate.png
 
-8. Write a Java program to insert the specified element at the end of a linked list.( using
+3. Write a Java program to insert the specified element at the end of a linked list.( using
 l_listobj.offerLast("Pink"))
 Output to show the insertions at the end using LinkedList Implementation :-                                               
 https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/InsertAtEnd.png
 
-9. Write a Java program to display elements and their positions in a linked list ( using
+4. Write a Java program to display elements and their positions in a linked list ( using
 l_listobj.get(p) )
 Output to DisplayPosition using LinkedList Implementation :-                                                   
 https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/DisplayWithPositions.png
 
-10. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
+5. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
 Collections.swap(l_list, 0, 2))
 Output to swap elements using LinkedList Implementation :-                                                           
 https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/SwapElements.png
@@ -131,15 +131,15 @@ function removeWhitespace()
 
 3c. String Exercise programs
 
-Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
+Q1. Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords()
-Q7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
+Q2. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
 defined function truncate()
-Q8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
+Q3. Write a Java Program for Verifying if a string contains only numeric characters using user defined
 function isNumeric()
-Q9. Write a Java Program for Creating a random string of a specified length using user defined
+Q4. Write a Java Program for Creating a random string of a specified length using user defined
 function generateRandomString()
-Q10. Write a Java Program for Counting the number of words in a string using user defined function
+Q5. Write a Java Program for Counting the number of words in a string using user defined function
 countWords()
 
 Output for 3b and 3c :-
@@ -181,7 +181,7 @@ display them on console whenever the countries are selected on the list.
 Output to display CountryList in console :-
 https://github.com/Swanjith/My_Java/blob/main/Exp-5_SwingExamples2/5a.png
 
----
+
 
 5b. Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and
 display the concerned color whenever the specific tab is selected in the Pan.
@@ -240,7 +240,8 @@ https://github.com/Swanjith/My_Java/blob/main/Exp-7_JavaServlet1/SessionManageme
 
 7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max
 Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then
-it has to go to show the active cookie list when you press the link go to the active cookie list                   
+it has to go to show the active cookie list when you press the link go to the active cookie list   
+
 https://github.com/Swanjith/My_Java/blob/main/Exp-7_JavaServlet1/CookieManagement/swancookie.png
 
 
@@ -249,7 +250,8 @@ ___
 
 8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a
 new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and
-JSP to get the fields and display the results respectively                                             
+JSP to get the fields and display the results respectively.       
+
 https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8A/8a.png
 
 
@@ -258,6 +260,7 @@ https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8A/8a.png
 8b. Read all the existing records from the table coffee which is from the database test and update an
 existing coffee product in the table with its id. [Create a table coffee with fields
 ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
+
 https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8B/scpffee.png
 
 
@@ -268,6 +271,7 @@ https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8B/scpffee.png
 into the table Emp of the database Employee by getting the fields through keyboard and
 Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using
 HTML and JSP to get the fields and display the results respectively
+
 https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8C/swan8C.png
 
 
