@@ -17,7 +17,7 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
 
 
 Output for ArrayList Implementation :-                                                            
-https://github.com/Swanjith/My_Java/blob/main/ListDemo/ArrayList.png                                               
+https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/ArrayList.png    
 Output for LinkedList Implementation :-                                                                    
 https://github.com/Swanjith/My_Java/blob/main/Exp-1_ListDemo/LinkedList.png
 
