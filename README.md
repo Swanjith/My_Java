@@ -185,7 +185,7 @@ display the concerned color whenever the specific tab is selected in the Pan.
 Output to display CountryList with Capitals in console :-
 https://github.com/Swanjith/My_Java/blob/main/Exp-5_SwingExamples2/5b.png
 
----
+
 
 5c. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
 Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
@@ -193,7 +193,7 @@ display the capital of the countries on console whenever the countries are selec
 Output for colour tabbed pane :-
 https://github.com/Swanjith/My_Java/blob/main/Exp-5_SwingExamples2/5c.png
 
----
+
 
 5d. Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
 display the concerned color whenever the specific tab is selected in the Pan
@@ -207,7 +207,7 @@ ___
 procedure.
 https://github.com/Swanjith/My_Java/blob/main/Exp-6_JavaServlet/FactorialServlet/Fact.png
 
----
+
 
 6b. Build a servlet program to create a cookie to get your name through text box and press submit
 button( through HTML) to display the message by greeting Welcome back your name ! , you have
@@ -215,7 +215,7 @@ visited this page n times ( n = number of your visit ) and demonstrate the expir
 https://github.com/Swanjith/My_Java/blob/main/Exp-6_JavaServlet/CookieServlet/6b1.png                                       
 https://github.com/Swanjith/My_Java/blob/main/Exp-6_JavaServlet/CookieServlet/6b.png
 
----
+
 
 
 6c. Build a servlet program to check the given number is prime number or not using HTML with step
@@ -231,7 +231,7 @@ your name through text box and press submit to display the message by greeting H
 Check the expiry of the session after one minute.                                                                   
 https://github.com/Swanjith/My_Java/blob/main/Exp-7_JavaServlet1/SessionManagement/swansession.png
 
----
+
 
 
 7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max
@@ -248,7 +248,7 @@ new coffee product into it [Create a table coffee with fields ( id,coffee_name,p
 JSP to get the fields and display the results respectively                                             
 https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8A/8a.png
 
----
+
 
 
 8b. Read all the existing records from the table coffee which is from the database test and update an
@@ -256,7 +256,7 @@ existing coffee product in the table with its id. [Create a table coffee with fi
 ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
 https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8B/scpffee.png
 
----
+
 
 
 
@@ -266,7 +266,7 @@ Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary
 HTML and JSP to get the fields and display the results respectively
 https://github.com/Swanjith/My_Java/blob/main/Exp-8_Jdbc/8C/swan8C.png
 
----
+
 
 
 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into
@@ -282,14 +282,14 @@ an existing coffee product from the table with its id and display the rest of th
 HTML and JSP to get the field and display the results respectively                       
 https://github.com/Swanjith/My_Java/blob/main/Exp-9_Jdbc/9A/9aswan.png
 
----
+
 
 9b. Read all the existing records from the table coffee which is from the database test and query
 coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the
 results respectively
 https://github.com/Swanjith/My_Java/blob/main/Exp-9_Jdbc/9B/9bSwan.png
 
----
+
 
 9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and Generate
@@ -297,7 +297,7 @@ the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using 
 to get the field and display the results respectively
 https://github.com/Swanjith/My_Java/blob/main/Exp-9_Jdbc/9C/9cswan.png
 
----
+
 
 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
 Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
