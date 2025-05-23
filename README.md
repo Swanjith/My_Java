@@ -14,6 +14,8 @@ follows
 1. Adding elements, 2. Adding element at specific index, 3. Adding multiple elements, 4.
 Accessing elements,5. Updating elements, 6. Removing elements, 7. Searching elements, 8. List
 size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. Clearing the list
+
+
 Output for ArrayList Implementation :-                                                            
 https://github.com/Swanjith/My_Java/blob/main/ListDemo/ArrayList.png                                               
 Output for LinkedList Implementation :-                                                                    
